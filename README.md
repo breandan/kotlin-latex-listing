@@ -20,7 +20,7 @@ First of all you have to copy the language definition into your latex document:
   emph={delegate, filter, first, firstOrNull, forEach, lazy, map, mapNotNull, println, return@},
   emphstyle={\color{OrangeRed}},
   identifierstyle=\color{black},
-  keywords={abstract, actual, as, as?, break, by, class, companion, continue, data, do, dynamic, else, enum, expect, false, final, for, fun, get, if, import, in, interface, internal, is, null, object, override, package, private, public, return, set, super, suspend, this, throw, true, try, typealias, val, var, vararg, when, where, while},
+  keywords={abstract, actual, as, as?, break, by, catch, class, companion, continue, data, do, dynamic, else, enum, expect, false, final, for, fun, get, if, import, in, interface, internal, is, null, object, override, package, private, public, return, set, super, suspend, this, throw, true, try, typealias, val, var, vararg, when, where, while},
   keywordstyle={\color{NavyBlue}\bfseries},
   morecomment=[s]{/*}{*/},
   morestring=[b]",
